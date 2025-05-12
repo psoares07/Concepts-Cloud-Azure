@@ -22,3 +22,7 @@ Inicia-se a configuração do banco de dados.
 ![bd3](https://github.com/psoares07/Concepts-Cloud-Azure/blob/main/images/banco%20de%20dados/foto3.png)
 
 ![bd4](https://github.com/psoares07/Concepts-Cloud-Azure/blob/main/images/banco%20de%20dados/foto4.png)
+
+![bd5](https://github.com/psoares07/Concepts-Cloud-Azure/blob/main/images/banco%20de%20dados/foto5.png)
+
+![bd6](https://github.com/psoares07/Concepts-Cloud-Azure/blob/main/images/banco%20de%20dados/foto6.png)
