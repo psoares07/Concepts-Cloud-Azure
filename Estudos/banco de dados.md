@@ -10,7 +10,7 @@ Ao acessar a tela inicial, já notamos a presença do serviço "Bando de Dados S
 
 Selecionamos o serviço e, em seguida, clicamos em "Criar".
 
-![bd2](https://github.com/psoares07/Concepts-Cloud-Azure/blob/main/images/banco%20de%20dados/2.png)
+![bd2](https://github.com/psoares07/Concepts-Cloud-Azure/blob/main/images/banco%20de%20dados/foto2.png)
 
 
 
